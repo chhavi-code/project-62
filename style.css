@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    color:darkcyan; 
+}
+h1
+{
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+#app
+{
+    width: 100%;
+    height: 800px;
+    background-color: aquamarine;
+}
+#chatbots
+{
+     width: 100%;
+    height: 800px;
+    background-color: cornflowerblue;
+}
+.line
+{
+    height: 6px;
+    background-color: darkturquoise;
+    width:70px;
+    margin: 8px auto;
+}
+.container{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color:darkgrey;
+}
+#myCarousel img{
+    height: 300px;
+margin-top: 35px;
+}
+.carousel-inner p
+{
+  margin-bottom: 15px;
+    margin-top: 15px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+img{
+    height:250px;
+    width: 250px;
+        
+}
+#donee{
+    height: inherit;
+    width:inherit;
+}
